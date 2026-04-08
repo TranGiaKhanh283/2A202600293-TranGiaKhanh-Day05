@@ -1,4 +1,4 @@
-# SPEC draft - NhomXX-Room
+# SPEC draft - NhomB5-C401
 
 ## Track: VinFast
 
